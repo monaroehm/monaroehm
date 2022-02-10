@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monaroehm
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monaroehm&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monaroehm&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
